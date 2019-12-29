@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="New bass line 2018Oct03" sample-rate="44100" end-is-free="1" id-counter="213207" name-counter="2" event-counter="12633" vca-counter="1">
+<Session version="3002" name="New bass line 2018Oct03" sample-rate="44100" end-is-free="1" id-counter="237585" name-counter="2" event-counter="12736" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 1:5.12.0-3"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -508,6 +508,7 @@
     <Region name="MIDI-2.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="1" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="330750" length="330750" position="1653750" beat="40" sync-position="330750" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="MusicTime" layering-index="5" start-beats="8" length-beats="8" id="42317" type="midi" first-edit="nothing" source-0="4004" master-source-0="4004"/>
     <Region name="synth pan flute-1.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1043930" length="846374" position="0" beat="0" sync-position="1043930" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42334" type="audio" first-edit="nothing" source-0="40979" master-source-0="40979" channels="1"/>
     <Region name="bass noise-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1565200" length="1984501" position="0" beat="0" sync-position="1565200" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42362" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1"/>
+    <Region name="bass noise-2.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3549700" length="1984500" position="85333499" beat="2063.9999758125473" sync-position="3549700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42373" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1"/>
     <Region name="rob guitar-3.35" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1447809" length="5908" position="0" beat="0" sync-position="1447809" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="14" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42501" type="audio" first-edit="nothing" source-0="12069" master-source-0="12069" channels="1"/>
     <Region name="rob guitar-3.36" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1570497" length="281199" position="5297" beat="0.12812093726379439" sync-position="1570497" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42511" type="audio" first-edit="nothing" source-0="12069" master-source-0="12069" channels="1"/>
     <Region name="rob guitar-3.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1894308" length="332454" position="329108" beat="7.960284202569917" sync-position="1894308" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42521" type="audio" first-edit="nothing" source-0="12069" master-source-0="12069" channels="1"/>
@@ -858,7 +859,9 @@
     <Region name="fast drums-4.55" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="191215" length="165376" position="89633250" beat="2168" sync-position="191215" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="212223" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1"/>
     <Region name="fast drums-4.56" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="191215" length="165376" position="89633250" beat="2168" sync-position="191215" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="212233" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1"/>
   </Regions>
-  <Selection/>
+  <Selection>
+    <StripableAutomationControl stripable="2656" control="0" order="0"/>
+  </Selection>
   <Locations>
     <Location id="251" name="session" start="0" end="114525887" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="542" name="Loop" start="88599656" end="89467875" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
@@ -866,6 +869,7 @@
     <Location id="2994" name="liked drums verse" start="25702516" end="25702516" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
     <Location id="3563" name="bass drums live" start="61454309" end="61454309" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
     <Location id="3572" name="oops 62" start="42980868" end="42980868" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+    <Location id="225367" name="Song start" start="84620320" end="84620320" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -1842,7 +1846,7 @@
           <Port symbol="level_in" value="1"/>
           <Port symbol="level_out" value="1"/>
           <Port symbol="hp_active" value="1"/>
-          <Port symbol="hp_freq" value="40.122890472412109"/>
+          <Port symbol="hp_freq" value="61.996696472167969"/>
           <Port symbol="hp_mode" value="1"/>
           <Port symbol="hp_q" value="0.7070000171661377"/>
           <Port symbol="lp_active" value="1"/>
@@ -1882,7 +1886,7 @@
         <Controllable name="Input Gain" id="3476" flags="" value="1" parameter="5" symbol="level_in"/>
         <Controllable name="Output Gain" id="3478" flags="" value="1" parameter="6" symbol="level_out"/>
         <Controllable name="HP Active" id="3480" flags="" value="1" parameter="15" symbol="hp_active"/>
-        <Controllable name="HP Freq" id="3482" flags="" value="40.122890472412109" parameter="16" symbol="hp_freq"/>
+        <Controllable name="HP Freq" id="3482" flags="" value="61.996696472167969" parameter="16" symbol="hp_freq"/>
         <Controllable name="HP Mode" id="3484" flags="" value="1" parameter="17" symbol="hp_mode"/>
         <Controllable name="HP Q" id="3486" flags="" value="0.7070000171661377" parameter="18" symbol="hp_q"/>
         <Controllable name="LP Active" id="3488" flags="" value="1" parameter="19" symbol="lp_active"/>
@@ -8401,7 +8405,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="rob guitar-3.47" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="12862386" length="217049" position="91204313" beat="2206" sync-position="12645329" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="148200" type="audio" first-edit="nothing" source-0="12069" master-source-0="12069" channels="1">
+      <Region name="rob guitar-3.47" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="12862386" length="217049" position="91204313" beat="2206" sync-position="12862386" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="148200" type="audio" first-edit="nothing" source-0="12069" master-source-0="12069" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="148201" interpolation-style="Curved" state="Off">
@@ -8465,38 +8469,75 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="bass noise-2.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3549700" length="1984500" position="85333499" beat="2063.9999758125473" sync-position="3549700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42373" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
+      <Region name="bass noise-2.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="3549700" length="1323001" position="85333499" beat="2063.9999758125473" sync-position="3549700" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="225377" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="42374" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="225378" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="42375" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="225379" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="42376" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="225380" interpolation-style="Curved" state="Off">
             <events>0 1
 64 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="42377" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="225381" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="bass noise-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6195701" length="1653750" position="87317999" beat="2111.9999758125473" sync-position="6195701" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42986" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
+      <Region name="bass noise-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="4872701" length="661499" position="86656500" beat="2096" sync-position="4872701" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="1" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="225385" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
+        <Envelope>
+          <AutomationList automation-id="envelope" id="225391" interpolation-style="Linear" state="Off">
+            <events>0 1.1759036779403687
+661499 1.1759036779403687
+</events>
+          </AutomationList>
+        </Envelope>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="225386" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="225387" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="225388" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="225389" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="bass noise-2.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6195701" length="1653750" position="87317999" beat="2111.9999758125473" sync-position="6195701" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42986" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="42987" interpolation-style="Curved" state="Off">
@@ -8527,7 +8568,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="bass noise-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8180202" length="661498" position="88971749" beat="2151.9999758125473" sync-position="8180202" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="186423" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
+      <Region name="bass noise-2.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="8180202" length="661498" position="88971749" beat="2151.9999758125473" sync-position="8180202" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="186423" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="186424" interpolation-style="Curved" state="Off">
@@ -8558,7 +8599,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="bass noise-2.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="9503202" length="661501" position="89633248" beat="2167.9999516250946" sync-position="9503202" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="171797" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
+      <Region name="bass noise-2.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="9503202" length="661501" position="89633248" beat="2167.9999516250946" sync-position="9503202" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="171797" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="171798" interpolation-style="Curved" state="Off">
@@ -8589,7 +8630,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="bass noise-2.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="11487704" length="909562" position="90294748" beat="2183.9999516250946" sync-position="11487704" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="122501" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
+      <Region name="bass noise-2.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="11487704" length="909562" position="90294748" beat="2183.9999516250946" sync-position="11487704" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="122501" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="122502" interpolation-style="Curved" state="Off">
@@ -8620,7 +8661,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="bass noise-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="12645329" length="217057" position="91204310" beat="2205.999939531368" sync-position="12645329" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="148032" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
+      <Region name="bass noise-2.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="12645329" length="217057" position="91204310" beat="2205.999939531368" sync-position="12645329" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="148032" type="audio" first-edit="nothing" source-0="12043" master-source-0="12043" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="148033" interpolation-style="Curved" state="Off">
@@ -10958,7 +10999,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="fast drums-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6139548" length="46511" position="89622914" beat="2167.75" sync-position="6149883" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="135607" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1">
+      <Region name="fast drums-4.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6139548" length="46511" position="89622914" beat="2167.75" sync-position="6139548" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="135607" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="135608" interpolation-style="Curved" state="Off">
@@ -11208,7 +11249,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="fast drums-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6139549" length="46511" position="89622914" beat="2167.75" sync-position="6149884" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="135582" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1">
+      <Region name="fast drums-4.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="6139549" length="46511" position="89622914" beat="2167.75" sync-position="6139549" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="135582" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="135583" interpolation-style="Curved" state="Off">
@@ -13935,7 +13976,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="671" y-size="510"/>
       <Window name="add-video" visible="0" x-off="0" y-off="199" x-size="800" y-size="462"/>
       <Window name="inspector" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-midi-setup" visible="0" x-off="688" y-off="321" x-size="543" y-size="438"/>
+      <Window name="audio-midi-setup" visible="0" x-off="598" y-off="52" x-size="584" y-size="438"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="844" y-off="389" x-size="342" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -13974,16 +14015,6 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="PM-3140-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-86-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-87-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-40934-40965" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-40934-40964" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-40934-43928" visible="0" x-off="424" y-off="190" x-size="806" y-size="334" custom-ui="1"/>
-      <Window name="P-40934-40966" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-40934-40967" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-40965-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-40964-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-43928-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-40966-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-40967-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-872-903" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-872-902" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-872-1788" visible="0" x-off="214" y-off="0" x-size="860" y-size="696" custom-ui="1"/>
@@ -14090,6 +14121,16 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="PM-11518-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3932-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-3933-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-40934-40965" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-40934-40964" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-40934-43928" visible="0" x-off="424" y-off="190" x-size="806" y-size="334" custom-ui="1"/>
+      <Window name="P-40934-40966" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-40934-40967" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-40965-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-40964-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-43928-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-40966-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-40967-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-11946-11977" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-11946-11976" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-11946-23010" visible="0" x-off="1053" y-off="0" x-size="867" y-size="713" custom-ui="1"/>
