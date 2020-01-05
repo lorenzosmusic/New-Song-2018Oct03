@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="New bass line 2018Oct03" sample-rate="44100" end-is-free="1" id-counter="237585" name-counter="2" event-counter="12736" vca-counter="1">
+<Session version="3002" name="New bass line 2018Oct03" sample-rate="44100" end-is-free="0" id-counter="274147" name-counter="2" event-counter="12815" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 1:5.12.0-3"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -859,17 +859,15 @@
     <Region name="fast drums-4.55" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="191215" length="165376" position="89633250" beat="2168" sync-position="191215" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="212223" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1"/>
     <Region name="fast drums-4.56" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="191215" length="165376" position="89633250" beat="2168" sync-position="191215" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="212233" type="audio" first-edit="nothing" source-0="60497" master-source-0="60497" channels="1"/>
   </Regions>
-  <Selection>
-    <StripableAutomationControl stripable="2656" control="0" order="0"/>
-  </Selection>
+  <Selection/>
   <Locations>
-    <Location id="251" name="session" start="0" end="114525887" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
+    <Location id="251" name="session" start="84609984" end="91421367" flags="IsSessionRange" locked="0" position-lock-style="AudioTime"/>
     <Location id="542" name="Loop" start="88599656" end="89467875" flags="IsAutoLoop" locked="0" position-lock-style="AudioTime"/>
     <Location id="2842" name="mark1" start="15304016" end="15304016" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
     <Location id="2994" name="liked drums verse" start="25702516" end="25702516" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
     <Location id="3563" name="bass drums live" start="61454309" end="61454309" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
     <Location id="3572" name="oops 62" start="42980868" end="42980868" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
-    <Location id="225367" name="Song start" start="84620320" end="84620320" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
+    <Location id="225367" name="Song start" start="84672000" end="84672000" flags="IsMark" locked="0" position-lock-style="AudioTime"/>
   </Locations>
   <Bundles/>
   <VCAManager/>
@@ -2004,7 +2002,7 @@
       <Diskstream flags="Recordable" playlist="channel 1.1" name="channel 1" id="2697" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="2717" name="drums" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="7" flags="AudioTrack,OrderSet" color="2005526015"/>
+      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="2005526015"/>
       <Controllable name="solo" id="2725" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2731" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2733" flags="Toggle" value="0" solo-safe="0"/>
@@ -2341,7 +2339,7 @@
       <Diskstream flags="Recordable" playlist="channel 2.1" name="channel 2" id="2758" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="3900" name="MIDI" default-type="midi" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" playback-channel-mode="AllChannels" capture-channel-mode="AllChannels" playback-channel-mask="0xffff" capture-channel-mask="0xffff" note-mode="Sustained" step-editing="0" input-active="1">
-      <PresentationInfo order="8" flags="MidiTrack,OrderSet" color="3152392959"/>
+      <PresentationInfo order="7" flags="MidiTrack,OrderSet" color="3152392959"/>
       <Controllable name="solo" id="3908" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="3914" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="3916" flags="Toggle" value="0" solo-safe="0"/>
@@ -2515,7 +2513,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Controllable name="midi-pgm-change-0" id="4001" flags="" value="77"/>
     </Route>
     <Route id="11881" name="rob guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="11" flags="AudioTrack,OrderSet" color="3855002879"/>
+      <PresentationInfo order="10" flags="AudioTrack,OrderSet" color="3855002879"/>
       <Controllable name="solo" id="11889" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="11895" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="11897" flags="Toggle" value="0" solo-safe="0"/>
@@ -2968,7 +2966,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="rob guitar" name="rob guitar" id="11922" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="11946" name="bass noise" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="10" flags="AudioTrack,OrderSet" color="3849485055"/>
+      <PresentationInfo order="9" flags="AudioTrack,OrderSet" color="3849485055"/>
       <Controllable name="solo" id="11954" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="11960" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="11962" flags="Toggle" value="0" solo-safe="0"/>
@@ -3245,7 +3243,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="bass noise.1" name="bass noise" id="11987" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="26072" name="vocals" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="1927659519"/>
+      <PresentationInfo order="13" flags="AudioTrack,OrderSet" color="1927659519"/>
       <Controllable name="solo" id="26080" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="26086" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="26088" flags="Toggle" value="0" solo-safe="0"/>
@@ -3661,7 +3659,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="vocals 2.1" name="vocals 2" id="35496" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="40934" name="synth pan flute" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="9" flags="AudioTrack,OrderSet" color="3032737279"/>
+      <PresentationInfo order="8" flags="AudioTrack,OrderSet" color="3032737279"/>
       <Controllable name="solo" id="40942" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="40948" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="40950" flags="Toggle" value="0" solo-safe="0"/>
@@ -3800,7 +3798,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="synth pan flute.1" name="synth pan flute" id="40975" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="49981" name="vibro guitar" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="2414197247"/>
+      <PresentationInfo order="12" flags="AudioTrack,OrderSet" color="2414197247"/>
       <Controllable name="solo" id="49989" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="49995" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="49997" flags="Toggle" value="0" solo-safe="0"/>
@@ -4137,7 +4135,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="vibro guitar.3" name="vibro guitar" id="50022" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="50708" name="vibro guitar punch" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="13" flags="AudioTrack,OrderSet" color="1925899775"/>
+      <PresentationInfo order="11" flags="AudioTrack,OrderSet" color="1925899775"/>
       <Controllable name="solo" id="50716" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="50722" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="50724" flags="Toggle" value="0" solo-safe="0"/>
@@ -4414,7 +4412,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="vibro guitar punch.1" name="vibro guitar punch" id="50749" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="50989" name="vibro guitar punch 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="12" flags="AudioTrack,OrderSet" color="3481265663"/>
+      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="3481265663"/>
       <Controllable name="solo" id="50997" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="51003" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="51005" flags="Toggle" value="0" solo-safe="0"/>
@@ -5167,7 +5165,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="fast drums 1.1" name="fast drums 1" id="69585" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="93578" name="live-video%L-L" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="2766500607"/>
+      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="2766500607"/>
       <Controllable name="solo" id="93586" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="93592" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="93594" flags="Toggle" value="0" solo-safe="0"/>
@@ -5246,7 +5244,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="live-video%L-L" name="live-video%L-L" id="93619" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="93656" name="live-video%R-R" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="1927652607"/>
+      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="1927652607"/>
       <Controllable name="solo" id="93664" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="93670" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="93672" flags="Toggle" value="0" solo-safe="0"/>
@@ -5325,7 +5323,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="live-video%R-R" name="live-video%R-R" id="93697" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="93750" name="live-video" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="3853939967"/>
+      <PresentationInfo order="14" flags="AudioTrack,OrderSet" color="3853939967"/>
       <Controllable name="solo" id="93758" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="93764" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="93766" flags="Toggle" value="0" solo-safe="0"/>
@@ -8424,14 +8422,14 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <FadeOut>
           <AutomationList automation-id="fadeout" id="148203" interpolation-style="Curved" state="Off">
             <events>0 1
-64 1.0000000116860974e-07
+10330 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="148204" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
-64 1
+10330 1
 </events>
           </AutomationList>
         </InverseFadeOut>
@@ -8680,14 +8678,14 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <FadeOut>
           <AutomationList automation-id="fadeout" id="148035" interpolation-style="Curved" state="Off">
             <events>0 1
-64 1.0000000116860974e-07
+10335 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="148036" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
-64 1
+10335 1
 </events>
           </AutomationList>
         </InverseFadeOut>
@@ -13976,7 +13974,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="671" y-size="510"/>
       <Window name="add-video" visible="0" x-off="0" y-off="199" x-size="800" y-size="462"/>
       <Window name="inspector" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-midi-setup" visible="0" x-off="598" y-off="52" x-size="584" y-size="438"/>
+      <Window name="audio-midi-setup" visible="0" x-off="688" y-off="321" x-size="543" y-size="438"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="844" y-off="389" x-size="342" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -13992,19 +13990,19 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="RPM-95624" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-69279" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-60336" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-2717" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-3900" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-40934" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-11946" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-11881" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-50989" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-50708" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-49981" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-26072" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-93750" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="RPM-35455" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-93578" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="RPM-93656" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-35455" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-50989" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-2717" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-54-85" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-84" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-54-3140" visible="0" x-off="0" y-off="583" x-size="814" y-size="405" custom-ui="1"/>
@@ -14097,20 +14095,6 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="PM-60583-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-60368-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-60369-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-2717-2748" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-2717-2747" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-2717-3713" visible="0" x-off="0" y-off="357" x-size="867" y-size="723" custom-ui="1"/>
-      <Window name="P-2717-9303" visible="0" x-off="374" y-off="0" x-size="814" y-size="405" custom-ui="1"/>
-      <Window name="P-2717-9330" visible="0" x-off="382" y-off="0" x-size="798" y-size="340" custom-ui="1"/>
-      <Window name="P-2717-2749" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-2717-2750" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-2748-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-2747-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-3713-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-9303-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-9330-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-2749-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-2750-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-3900-19355" visible="0" x-off="858" y-off="492" x-size="20" y-size="20" custom-ui="1"/>
       <Window name="P-3900-3930" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-3900-11518" visible="0" x-off="330" y-off="487" x-size="806" y-size="334" custom-ui="1"/>
@@ -14161,14 +14145,6 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="PM-12137-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-11913-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-11914-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-50989-51020" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-50989-51019" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-50989-51021" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-50989-51022" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-51020-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-51019-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-51021-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-51022-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-50708-50739" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-50708-50738" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-50708-57739" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -14221,14 +14197,6 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="PM-115459-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-93782-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-93783-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-35455-35486" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-35455-35485" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-35455-35487" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="P-35455-35488" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
-      <Window name="PM-35486-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-35485-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-35487-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="PM-35488-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="P-93578-93609" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-93578-93608" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-93578-93610" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
@@ -14245,6 +14213,36 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="PM-93686-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-93688-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-93689-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-35455-35486" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-35455-35485" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-35455-35487" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-35455-35488" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-35486-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-35485-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-35487-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-35488-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-50989-51020" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-50989-51019" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-50989-51021" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-50989-51022" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-51020-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-51019-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-51021-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-51022-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-2717-2748" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-2717-2747" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-2717-3713" visible="0" x-off="0" y-off="357" x-size="867" y-size="723" custom-ui="1"/>
+      <Window name="P-2717-9303" visible="0" x-off="374" y-off="0" x-size="814" y-size="405" custom-ui="1"/>
+      <Window name="P-2717-9330" visible="0" x-off="382" y-off="0" x-size="798" y-size="340" custom-ui="1"/>
+      <Window name="P-2717-2749" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-2717-2750" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-2748-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-2747-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-3713-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-9303-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-9330-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-2749-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-2750-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="62" visible="1"/>
         <Object id="automation 58" height="62" visible="0"/>
@@ -14274,7 +14272,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           <Object id="processor 185598"/>
           <Object id="processor 185628"/>
         </Object>
-        <Object id="rtav 872" height="62" visible="1"/>
+        <Object id="rtav 872" height="79" visible="1"/>
         <Object id="automation 876" height="62" visible="0"/>
         <Object id="automation 878" height="62" visible="0"/>
         <Object id="automation 872 12/0/0" height="62" visible="0"/>
