@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="3002" name="New bass line 2018Oct03" sample-rate="44100" end-is-free="0" id-counter="287493" name-counter="2" event-counter="13717" vca-counter="1">
+<Session version="3002" name="New bass line 2018Oct03" sample-rate="44100" end-is-free="0" id-counter="312608" name-counter="2" event-counter="13827" vca-counter="1">
   <ProgramVersion created-with="Ardour 5.12" modified-with="Ardour 1:5.12.0-3"/>
   <MIDIPorts>
     <Port name="MIDI Clock in" direction="input"/>
@@ -494,6 +494,7 @@
     <Region name="vocals-60.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="226154" position="90651340" beat="2192.625" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41831" type="audio" first-edit="nothing" source-0="41445" master-source-0="41445" channels="1"/>
     <Region name="vocals-60.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="308842" length="165375" position="90960182" beat="2200.0951050642479" sync-position="308842" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41841" type="audio" first-edit="nothing" source-0="41445" master-source-0="41445" channels="1"/>
     <Region name="vocals-63" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="1654784" position="92408449" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41898" type="audio" first-edit="nothing" source-0="41791" master-source-0="41791" channels="1"/>
+    <Region name="vocals-63.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="201552" position="89431696" beat="2163.1249221466364" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41906" type="audio" first-edit="nothing" source-0="41791" master-source-0="41791" channels="1"/>
     <Region name="vocals-62.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="837213" length="744867" position="89963999" beat="2175.9999758125473" sync-position="837213" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41933" type="audio" first-edit="nothing" source-0="41695" master-source-0="41695" channels="1"/>
     <Region name="vocals-64" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="1" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="697344" position="92599664" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41996" type="audio" first-edit="nothing" source-0="41921" master-source-0="41921" channels="1"/>
     <Region name="synth pan flute-2.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="590796" length="1470516" position="90656508" beat="2192.75" sync-position="590796" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42022" type="audio" first-edit="nothing" source-0="41025" master-source-0="41025" channels="1"/>
@@ -675,6 +676,7 @@
     <Region name="bass-5.37" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="9544546" length="1323000" position="89963999" beat="2175.9999758125473" sync-position="9544546" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="17" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117010" type="audio" first-edit="nothing" source-0="11783" master-source-0="11783" channels="1"/>
     <Region name="drumm added track-7.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1320960" length="47104" position="89964000" beat="2176" sync-position="1320960" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117254" type="audio" first-edit="nothing" source-0="116096" master-source-0="116096" channels="1"/>
     <Region name="live-video.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5361276" length="93024" position="89364515" beat="2161.499984882842" sync-position="5361276" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117296" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
+    <Region name="live-video.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89023430" beat="2153.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117316" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
     <Region name="vibro guitar punch 2-1.9" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="659456" position="0" beat="0" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="24" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117636" type="audio" first-edit="nothing" source-0="51034" master-source-0="51034" channels="1"/>
     <Region name="vibro guitar punch 2-1.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="659456" length="661500" position="0" beat="0" sync-position="659456" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="25" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117646" type="audio" first-edit="nothing" source-0="51034" master-source-0="51034" channels="1"/>
     <Region name="vibro guitar punch 2-1.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1320960" length="661500" position="0" beat="0" sync-position="1320960" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="26" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117656" type="audio" first-edit="nothing" source-0="51034" master-source-0="51034" channels="1"/>
@@ -865,6 +867,13 @@
     <Region name="drumm added track-7.15" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="990207" length="330748" position="89302500" beat="2160" sync-position="990207" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="287313" type="audio" first-edit="nothing" source-0="116096" master-source-0="116096" channels="1"/>
     <Region name="drumm added track-7.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1072895" length="82687" position="89385188" beat="2162" sync-position="1072895" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="287381" type="audio" first-edit="nothing" source-0="116096" master-source-0="116096" channels="1"/>
     <Region name="drumm added track-7.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="1155582" length="165373" position="89467875" beat="2164" sync-position="1155582" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="287389" type="audio" first-edit="nothing" source-0="116096" master-source-0="116096" channels="1"/>
+    <Region name="Bass1-19.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="537469" length="330750" position="88971750" beat="2152" sync-position="537469" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="299702" type="audio" first-edit="nothing" source-0="160173" master-source-0="160173" channels="1"/>
+    <Region name="live-video.13" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89023430" beat="2153.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312050" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
+    <Region name="live-video.14" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89023430" beat="2153.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="11" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312072" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
+    <Region name="live-video.16" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89023430" beat="2153.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312236" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
+    <Region name="live-video.17" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89550562" beat="2165.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312248" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
+    <Region name="live-video.18" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89354180" beat="2161.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312260" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
+    <Region name="live-video.19" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89219812" beat="2157.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312272" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2"/>
   </Regions>
   <Selection/>
   <Locations>
@@ -891,6 +900,7 @@
           <Connection other="MIDI/audio_out 1"/>
           <Connection other="bass noise/audio_out 1"/>
           <Connection other="bass/audio_out 1"/>
+          <Connection other="break/audio_out 1"/>
           <Connection other="drumm added track/audio_out 1"/>
           <Connection other="drums/audio_out 1"/>
           <Connection other="fast drums 1/audio_out 1"/>
@@ -912,6 +922,7 @@
           <Connection other="MIDI/audio_out 2"/>
           <Connection other="bass noise/audio_out 2"/>
           <Connection other="bass/audio_out 2"/>
+          <Connection other="break/audio_out 2"/>
           <Connection other="drumm added track/audio_out 2"/>
           <Connection other="drums/audio_out 2"/>
           <Connection other="fast drums 1/audio_out 2"/>
@@ -2009,7 +2020,7 @@
       <Diskstream flags="Recordable" playlist="channel 1.1" name="channel 1" id="2697" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="2717" name="drums" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="2005526015"/>
+      <PresentationInfo order="20" flags="AudioTrack,OrderSet" color="2005526015"/>
       <Controllable name="solo" id="2725" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="2731" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="2733" flags="Toggle" value="0" solo-safe="0"/>
@@ -2549,7 +2560,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <AutomationList automation-id="monitor" id="11920" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="11900" flags="" value="0.50008392396378964"/>
+        <Controllable name="pan-azimuth" id="11900" flags="" value="0.8095238208770752"/>
         <Controllable name="pan-width" id="11904" flags="" value="0"/>
         <Controllable name="pan-elevation" id="11902" flags="" value="0"/>
         <Controllable name="pan-frontback" id="11906" flags="" value="0"/>
@@ -2974,7 +2985,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Processor id="11914" name="rob guitar" active="1" user-latency="0" own-input="1" own-output="0" output="rob guitar" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="11900" flags="" value="0.50008392396378964"/>
+          <Controllable name="pan-azimuth" id="11900" flags="" value="0.8095238208770752"/>
           <Controllable name="pan-width" id="11904" flags="" value="0"/>
           <Controllable name="pan-elevation" id="11902" flags="" value="0"/>
           <Controllable name="pan-frontback" id="11906" flags="" value="0"/>
@@ -3631,7 +3642,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="vocals.5" name="vocals" id="26113" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="35455" name="vocals 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="3211978239"/>
+      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="3211978239"/>
       <Controllable name="solo" id="35463" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="35469" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="35471" flags="Toggle" value="0" solo-safe="0"/>
@@ -3878,7 +3889,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <AutomationList automation-id="monitor" id="50020" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="50000" flags="" value="0.5"/>
+        <Controllable name="pan-azimuth" id="50000" flags="" value="0.20634920075573848"/>
         <Controllable name="pan-width" id="50004" flags="" value="0"/>
         <Controllable name="pan-elevation" id="50002" flags="" value="0"/>
         <Controllable name="pan-frontback" id="50006" flags="" value="0"/>
@@ -4188,7 +4199,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Processor id="50014" name="vibro guitar" active="1" user-latency="0" own-input="1" own-output="0" output="vibro guitar" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="50000" flags="" value="0.5"/>
+          <Controllable name="pan-azimuth" id="50000" flags="" value="0.20634920075573848"/>
           <Controllable name="pan-width" id="50004" flags="" value="0"/>
           <Controllable name="pan-elevation" id="50002" flags="" value="0"/>
           <Controllable name="pan-frontback" id="50006" flags="" value="0"/>
@@ -4261,7 +4272,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <AutomationList automation-id="monitor" id="50747" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="50727" flags="" value="0.46516582369804382"/>
+        <Controllable name="pan-azimuth" id="50727" flags="" value="0.1904761791229248"/>
         <Controllable name="pan-width" id="50731" flags="" value="0"/>
         <Controllable name="pan-elevation" id="50729" flags="" value="0"/>
         <Controllable name="pan-frontback" id="50733" flags="" value="0"/>
@@ -4511,7 +4522,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Processor id="50741" name="vibro guitar punch" active="1" user-latency="0" own-input="1" own-output="0" output="vibro guitar punch" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="50727" flags="" value="0.46516582369804382"/>
+          <Controllable name="pan-azimuth" id="50727" flags="" value="0.1904761791229248"/>
           <Controllable name="pan-width" id="50731" flags="" value="0"/>
           <Controllable name="pan-elevation" id="50729" flags="" value="0"/>
           <Controllable name="pan-frontback" id="50733" flags="" value="0"/>
@@ -4555,7 +4566,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="vibro guitar punch.1" name="vibro guitar punch" id="50749" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="50989" name="vibro guitar punch 2" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="18" flags="AudioTrack,OrderSet" color="3481265663"/>
+      <PresentationInfo order="19" flags="AudioTrack,OrderSet" color="3481265663"/>
       <Controllable name="solo" id="50997" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="51003" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="51005" flags="Toggle" value="0" solo-safe="0"/>
@@ -5308,7 +5319,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="fast drums 1.1" name="fast drums 1" id="69585" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="93578" name="live-video%L-L" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="2766500607"/>
+      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="2766500607"/>
       <Controllable name="solo" id="93586" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="93592" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="93594" flags="Toggle" value="0" solo-safe="0"/>
@@ -5387,7 +5398,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Diskstream flags="Recordable" playlist="live-video%L-L" name="live-video%L-L" id="93619" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
     </Route>
     <Route id="93656" name="live-video%R-R" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
-      <PresentationInfo order="16" flags="AudioTrack,OrderSet" color="1927652607"/>
+      <PresentationInfo order="17" flags="AudioTrack,OrderSet" color="1927652607"/>
       <Controllable name="solo" id="93664" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
       <Controllable name="solo-iso" id="93670" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
       <Controllable name="solo-safe" id="93672" flags="Toggle" value="0" solo-safe="0"/>
@@ -5519,11 +5530,11 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <Automation>
           <AutomationList automation-id="gain" id="93753" interpolation-style="Linear" state="Play">
             <events>0 1
-91421367 1
+91421367 0.99999994039535522
 </events>
           </AutomationList>
         </Automation>
-        <Controllable name="gaincontrol" id="93754" flags="GainLike" value="1"/>
+        <Controllable name="gaincontrol" id="93754" flags="GainLike" value="0.99999994039535522"/>
       </Processor>
       <Processor id="115376" name="Calf Equalizer 8 Band" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Equalizer8Band" count="1" custom="0">
         <Automation>
@@ -5843,7 +5854,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <AutomationList automation-id="monitor" id="95663" interpolation-style="Discrete" state="Off"/>
       </Automation>
       <Pannable>
-        <Controllable name="pan-azimuth" id="95643" flags="" value="0.35576923076923078"/>
+        <Controllable name="pan-azimuth" id="95643" flags="" value="0.35576921701431274"/>
         <Controllable name="pan-width" id="95647" flags="" value="0"/>
         <Controllable name="pan-elevation" id="95645" flags="" value="0"/>
         <Controllable name="pan-frontback" id="95649" flags="" value="0"/>
@@ -6130,7 +6141,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Processor id="95657" name="drumm added track" active="1" user-latency="0" own-input="1" own-output="0" output="drumm added track" type="main-outs" role="Main">
         <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
         <Pannable>
-          <Controllable name="pan-azimuth" id="95643" flags="" value="0.35576923076923078"/>
+          <Controllable name="pan-azimuth" id="95643" flags="" value="0.35576921701431274"/>
           <Controllable name="pan-width" id="95647" flags="" value="0"/>
           <Controllable name="pan-elevation" id="95645" flags="" value="0"/>
           <Controllable name="pan-frontback" id="95649" flags="" value="0"/>
@@ -6149,6 +6160,415 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Controllable name="rec-safe" id="95662" flags="Toggle,RealTime" value="0"/>
       <Controllable name="rec-enable" id="95660" flags="Toggle,RealTime" value="0"/>
       <Diskstream flags="Recordable" playlist="drumm added track.4" name="drumm added track" id="95665" speed="1" capture-alignment="Automatic" record-safe="0" channels="1"/>
+    </Route>
+    <Route id="312172" name="break" default-type="audio" strict-io="1" active="1" denormal-protection="0" meter-point="MeterPostFader" meter-type="MeterPeak" saved-meter-point="MeterPostFader" mode="Normal">
+      <PresentationInfo order="15" flags="AudioTrack,OrderSet" color="3178423807"/>
+      <Controllable name="solo" id="312180" flags="Toggle,RealTime" value="0" self-solo="0" soloed-by-upstream="0" soloed-by-downstream="0"/>
+      <Controllable name="solo-iso" id="312186" flags="Toggle,RealTime" value="0" solo-isolated="0"/>
+      <Controllable name="solo-safe" id="312188" flags="Toggle" value="0" solo-safe="0"/>
+      <IO name="break" id="312200" direction="Input" default-type="audio" user-latency="0">
+        <Port type="audio" name="break/audio_in 1"/>
+        <Port type="audio" name="break/audio_in 2"/>
+      </IO>
+      <IO name="break" id="312201" direction="Output" default-type="audio" user-latency="0">
+        <Port type="audio" name="break/audio_out 1">
+          <Connection other="Master/audio_in 1"/>
+        </Port>
+        <Port type="audio" name="break/audio_out 2">
+          <Connection other="Master/audio_in 2"/>
+        </Port>
+      </IO>
+      <MuteMaster mute-point="PostFader,Listen,Main" muted="0"/>
+      <Controllable name="mute" id="312182" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="phase" id="312184" flags="Toggle" value="0" phase-invert="00"/>
+      <Automation>
+        <AutomationList automation-id="solo" id="312179" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-iso" id="312185" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="solo-safe" id="312187" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="mute" id="312181" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-enable" id="312207" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="rec-safe" id="312209" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="phase" id="312183" interpolation-style="Discrete" state="Off"/>
+        <AutomationList automation-id="monitor" id="312211" interpolation-style="Discrete" state="Off"/>
+      </Automation>
+      <Pannable>
+        <Controllable name="pan-azimuth" id="312191" flags="" value="0.5"/>
+        <Controllable name="pan-width" id="312195" flags="" value="1"/>
+        <Controllable name="pan-elevation" id="312193" flags="" value="0"/>
+        <Controllable name="pan-frontback" id="312197" flags="" value="0"/>
+        <Controllable name="pan-lfe" id="312199" flags="" value="0"/>
+        <Automation>
+          <AutomationList automation-id="pan-azimuth" id="312190" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-elevation" id="312192" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-width" id="312194" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-frontback" id="312196" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="pan-lfe" id="312198" interpolation-style="Linear" state="Off"/>
+        </Automation>
+      </Pannable>
+      <Processor id="312203" name="Amp" active="1" user-latency="0" type="trim">
+        <Automation>
+          <AutomationList automation-id="trim" id="312177" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="trimcontrol" id="312178" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="312202" name="Amp" active="1" user-latency="0" type="amp">
+        <Automation>
+          <AutomationList automation-id="gain" id="312175" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <Controllable name="gaincontrol" id="312176" flags="GainLike" value="1"/>
+      </Processor>
+      <Processor id="312405" name="Calf Equalizer 8 Band" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Equalizer8Band" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="115377" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="115379" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="115381" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="115383" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="115385" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="115387" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="115389" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="115391" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-20" id="115393" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-21" id="115395" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-22" id="115397" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-23" id="115399" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-24" id="115401" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-25" id="115403" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-26" id="115405" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-27" id="115407" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-28" id="115409" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-29" id="115411" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-30" id="115413" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-31" id="115415" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-32" id="115417" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-33" id="115419" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-34" id="115421" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-35" id="115423" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-36" id="115425" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-37" id="115427" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-38" id="115429" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-39" id="115431" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-40" id="115433" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-41" id="115435" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-42" id="115437" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-43" id="115439" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-44" id="115441" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-45" id="115443" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-46" id="115445" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-47" id="115447" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-48" id="115449" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-49" id="115451" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-50" id="115453" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="bypass" value="0"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="1"/>
+          <Port symbol="hp_active" value="1"/>
+          <Port symbol="hp_freq" value="49.335098266601562"/>
+          <Port symbol="hp_mode" value="1"/>
+          <Port symbol="hp_q" value="0.7070000171661377"/>
+          <Port symbol="lp_active" value="0"/>
+          <Port symbol="lp_freq" value="18000"/>
+          <Port symbol="lp_mode" value="1"/>
+          <Port symbol="lp_q" value="0.7070000171661377"/>
+          <Port symbol="ls_active" value="0"/>
+          <Port symbol="ls_level" value="1"/>
+          <Port symbol="ls_freq" value="100"/>
+          <Port symbol="ls_q" value="0.7070000171661377"/>
+          <Port symbol="hs_active" value="0"/>
+          <Port symbol="hs_level" value="1"/>
+          <Port symbol="hs_freq" value="5000"/>
+          <Port symbol="hs_q" value="0.7070000171661377"/>
+          <Port symbol="p1_active" value="0"/>
+          <Port symbol="p1_level" value="1"/>
+          <Port symbol="p1_freq" value="100"/>
+          <Port symbol="p1_q" value="1"/>
+          <Port symbol="p2_active" value="0"/>
+          <Port symbol="p2_level" value="1"/>
+          <Port symbol="p2_freq" value="500"/>
+          <Port symbol="p2_q" value="1"/>
+          <Port symbol="p3_active" value="0"/>
+          <Port symbol="p3_level" value="1"/>
+          <Port symbol="p3_freq" value="2000"/>
+          <Port symbol="p3_q" value="1"/>
+          <Port symbol="p4_active" value="0"/>
+          <Port symbol="p4_level" value="1"/>
+          <Port symbol="p4_freq" value="5000"/>
+          <Port symbol="p4_q" value="1"/>
+          <Port symbol="individuals" value="1"/>
+          <Port symbol="zoom" value="0.25"/>
+          <Port symbol="analyzer" value="1"/>
+          <Port symbol="analyzer_mode" value="1"/>
+        </lv2>
+        <Controllable name="Bypass" id="115378" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
+        <Controllable name="Input Gain" id="115380" flags="" value="1" parameter="5" symbol="level_in"/>
+        <Controllable name="Output Gain" id="115382" flags="" value="1" parameter="6" symbol="level_out"/>
+        <Controllable name="HP Active" id="115384" flags="" value="1" parameter="15" symbol="hp_active"/>
+        <Controllable name="HP Freq" id="115386" flags="" value="49.335098266601562" parameter="16" symbol="hp_freq"/>
+        <Controllable name="HP Mode" id="115388" flags="" value="1" parameter="17" symbol="hp_mode"/>
+        <Controllable name="HP Q" id="115390" flags="" value="0.7070000171661377" parameter="18" symbol="hp_q"/>
+        <Controllable name="LP Active" id="115392" flags="" value="0" parameter="19" symbol="lp_active"/>
+        <Controllable name="LP Freq" id="115394" flags="" value="18000" parameter="20" symbol="lp_freq"/>
+        <Controllable name="LP Mode" id="115396" flags="" value="1" parameter="21" symbol="lp_mode"/>
+        <Controllable name="LP Q" id="115398" flags="" value="0.7070000171661377" parameter="22" symbol="lp_q"/>
+        <Controllable name="LS Active" id="115400" flags="" value="0" parameter="23" symbol="ls_active"/>
+        <Controllable name="Level L" id="115402" flags="" value="1" parameter="24" symbol="ls_level"/>
+        <Controllable name="Freq L" id="115404" flags="" value="100" parameter="25" symbol="ls_freq"/>
+        <Controllable name="LS Q" id="115406" flags="" value="0.7070000171661377" parameter="26" symbol="ls_q"/>
+        <Controllable name="HS Active" id="115408" flags="" value="0" parameter="27" symbol="hs_active"/>
+        <Controllable name="Level H" id="115410" flags="" value="1" parameter="28" symbol="hs_level"/>
+        <Controllable name="Freq H" id="115412" flags="" value="5000" parameter="29" symbol="hs_freq"/>
+        <Controllable name="HS Q" id="115414" flags="" value="0.7070000171661377" parameter="30" symbol="hs_q"/>
+        <Controllable name="F1 Active" id="115416" flags="" value="0" parameter="31" symbol="p1_active"/>
+        <Controllable name="Level 1" id="115418" flags="" value="1" parameter="32" symbol="p1_level"/>
+        <Controllable name="Freq 1" id="115420" flags="" value="100" parameter="33" symbol="p1_freq"/>
+        <Controllable name="Q 1" id="115422" flags="" value="1" parameter="34" symbol="p1_q"/>
+        <Controllable name="F2 Active" id="115424" flags="" value="0" parameter="35" symbol="p2_active"/>
+        <Controllable name="Level 2" id="115426" flags="" value="1" parameter="36" symbol="p2_level"/>
+        <Controllable name="Freq 2" id="115428" flags="" value="500" parameter="37" symbol="p2_freq"/>
+        <Controllable name="Q 2" id="115430" flags="" value="1" parameter="38" symbol="p2_q"/>
+        <Controllable name="F3 Active" id="115432" flags="" value="0" parameter="39" symbol="p3_active"/>
+        <Controllable name="Level 3" id="115434" flags="" value="1" parameter="40" symbol="p3_level"/>
+        <Controllable name="Freq 3" id="115436" flags="" value="2000" parameter="41" symbol="p3_freq"/>
+        <Controllable name="Q 3" id="115438" flags="" value="1" parameter="42" symbol="p3_q"/>
+        <Controllable name="F4 Active" id="115440" flags="" value="0" parameter="43" symbol="p4_active"/>
+        <Controllable name="Level 4" id="115442" flags="" value="1" parameter="44" symbol="p4_level"/>
+        <Controllable name="Freq 4" id="115444" flags="" value="5000" parameter="45" symbol="p4_freq"/>
+        <Controllable name="Q 4" id="115446" flags="" value="1" parameter="46" symbol="p4_q"/>
+        <Controllable name="Individual Filters" id="115448" flags="Toggle" value="1" parameter="47" symbol="individuals"/>
+        <Controllable name="Zoom" id="115450" flags="" value="0.25" parameter="48" symbol="zoom"/>
+        <Controllable name="Analyzer Active" id="115452" flags="Toggle" value="1" parameter="49" symbol="analyzer"/>
+        <Controllable name="Analyzer Mode" id="115454" flags="" value="1" parameter="50" symbol="analyzer_mode"/>
+      </Processor>
+      <Processor id="312487" name="Calf Reverb" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Reverb" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-7" id="286782" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="286784" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="286786" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="286788" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="286790" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="286792" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="286794" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="286796" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="286798" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="286800" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="286802" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-18" id="286804" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="http://calf.sourceforge.net/factory_presets#reverb_LargeOccupiedHall" last-preset-label="Large Occupied Hall" parameter-changed-since-last-preset="0">
+          <Port symbol="decay_time" value="1.4539699554443359"/>
+          <Port symbol="hf_damp" value="9795.580078125"/>
+          <Port symbol="room_size" value="4"/>
+          <Port symbol="diffusion" value="0.54000002145767212"/>
+          <Port symbol="amount" value="0.18428400158882141"/>
+          <Port symbol="dry" value="1"/>
+          <Port symbol="predelay" value="25"/>
+          <Port symbol="bass_cut" value="257.64999389648438"/>
+          <Port symbol="treble_cut" value="20000"/>
+          <Port symbol="on" value="1"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="1"/>
+        </lv2>
+        <Controllable name="Decay time" id="286783" flags="" value="1.4539699554443359" parameter="7" symbol="decay_time"/>
+        <Controllable name="High Frq Damp" id="286785" flags="" value="9795.580078125" parameter="8" symbol="hf_damp"/>
+        <Controllable name="Room size" id="286787" flags="" value="4" parameter="9" symbol="room_size"/>
+        <Controllable name="Diffusion" id="286789" flags="" value="0.54000002145767212" parameter="10" symbol="diffusion"/>
+        <Controllable name="Wet Amount" id="286791" flags="" value="0.18428400158882141" parameter="11" symbol="amount"/>
+        <Controllable name="Dry Amount" id="286793" flags="" value="1" parameter="12" symbol="dry"/>
+        <Controllable name="Pre Delay" id="286795" flags="" value="25" parameter="13" symbol="predelay"/>
+        <Controllable name="Bass Cut" id="286797" flags="" value="257.64999389648438" parameter="14" symbol="bass_cut"/>
+        <Controllable name="Treble Cut" id="286799" flags="" value="20000" parameter="15" symbol="treble_cut"/>
+        <Controllable name="Active" id="286801" flags="Toggle" value="1" parameter="16" symbol="on"/>
+        <Controllable name="Input Gain" id="286803" flags="" value="1" parameter="17" symbol="level_in"/>
+        <Controllable name="Output Gain" id="286805" flags="" value="1" parameter="18" symbol="level_out"/>
+      </Processor>
+      <Processor id="312515" name="Calf Compressor" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Compressor" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="115460" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="115462" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="115464" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="115466" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="115468" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="115470" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="115472" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="115474" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-16" id="115476" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-17" id="115478" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-19" id="115480" interpolation-style="Linear" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="0">
+          <Port symbol="bypass" value="0"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="threshold" value="0.125"/>
+          <Port symbol="ratio" value="2"/>
+          <Port symbol="attack" value="20"/>
+          <Port symbol="release" value="250"/>
+          <Port symbol="makeup" value="1"/>
+          <Port symbol="knee" value="2.8284299373626709"/>
+          <Port symbol="detection" value="0"/>
+          <Port symbol="stereo_link" value="0"/>
+          <Port symbol="mix" value="1"/>
+        </lv2>
+        <Controllable name="Bypass" id="115461" flags="Toggle" value="0" parameter="4" symbol="bypass"/>
+        <Controllable name="Input" id="115463" flags="" value="1" parameter="5" symbol="level_in"/>
+        <Controllable name="Threshold" id="115465" flags="" value="0.125" parameter="10" symbol="threshold"/>
+        <Controllable name="Ratio" id="115467" flags="" value="2" parameter="11" symbol="ratio"/>
+        <Controllable name="Attack" id="115469" flags="" value="20" parameter="12" symbol="attack"/>
+        <Controllable name="Release" id="115471" flags="" value="250" parameter="13" symbol="release"/>
+        <Controllable name="Makeup Gain" id="115473" flags="" value="1" parameter="14" symbol="makeup"/>
+        <Controllable name="Knee" id="115475" flags="" value="2.8284299373626709" parameter="15" symbol="knee"/>
+        <Controllable name="Detection" id="115477" flags="" value="0" parameter="16" symbol="detection"/>
+        <Controllable name="Stereo Link" id="115479" flags="" value="0" parameter="17" symbol="stereo_link"/>
+        <Controllable name="Mix" id="115481" flags="" value="1" parameter="19" symbol="mix"/>
+      </Processor>
+      <Processor id="312375" name="Calf Phaser" active="1" user-latency="0" type="lv2" unique-id="http://calf.sourceforge.net/plugins/Phaser" count="1" custom="0">
+        <Automation>
+          <AutomationList automation-id="parameter-4" id="312376" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-5" id="312378" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-6" id="312380" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-7" id="312382" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-8" id="312384" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-9" id="312386" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-10" id="312388" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-11" id="312390" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-12" id="312392" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-13" id="312394" interpolation-style="Discrete" state="Off"/>
+          <AutomationList automation-id="parameter-14" id="312396" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-15" id="312398" interpolation-style="Linear" state="Off"/>
+          <AutomationList automation-id="parameter-24" id="312400" interpolation-style="Discrete" state="Off"/>
+        </Automation>
+        <ConfiguredInput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredInput>
+        <CustomSinks>
+          <Channels type="audio" count="2"/>
+          <Channels type="midi" count="1"/>
+        </CustomSinks>
+        <ConfiguredOutput>
+          <Channels type="audio" count="2"/>
+        </ConfiguredOutput>
+        <PresetOutput/>
+        <InputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </InputMap-0>
+        <OutputMap-0>
+          <Channelmap type="audio" from="0" to="0"/>
+          <Channelmap type="audio" from="1" to="1"/>
+        </OutputMap-0>
+        <ThruMap/>
+        <lv2 last-preset-uri="" last-preset-label="" parameter-changed-since-last-preset="1">
+          <Port symbol="base_freq" value="1000"/>
+          <Port symbol="mod_depth" value="4000"/>
+          <Port symbol="mod_rate" value="0.10000000149011612"/>
+          <Port symbol="feedback" value="0.5"/>
+          <Port symbol="stages" value="6"/>
+          <Port symbol="stereo" value="180"/>
+          <Port symbol="reset" value="0"/>
+          <Port symbol="amount" value="0.5"/>
+          <Port symbol="dry" value="1"/>
+          <Port symbol="on" value="1"/>
+          <Port symbol="level_in" value="1"/>
+          <Port symbol="level_out" value="1"/>
+          <Port symbol="lfo" value="1"/>
+        </lv2>
+        <Controllable name="Center Freq" id="312377" flags="" value="1000" parameter="4" symbol="base_freq"/>
+        <Controllable name="Mod depth" id="312379" flags="" value="4000" parameter="5" symbol="mod_depth"/>
+        <Controllable name="Mod rate" id="312381" flags="" value="0.10000000149011612" parameter="6" symbol="mod_rate"/>
+        <Controllable name="Feedback" id="312383" flags="" value="0.5" parameter="7" symbol="feedback"/>
+        <Controllable name="# Stages" id="312385" flags="" value="6" parameter="8" symbol="stages"/>
+        <Controllable name="Stereo phase" id="312387" flags="" value="180" parameter="9" symbol="stereo"/>
+        <Controllable name="Reset" id="312389" flags="Toggle" value="0" parameter="10" symbol="reset"/>
+        <Controllable name="Amount" id="312391" flags="" value="0.5" parameter="11" symbol="amount"/>
+        <Controllable name="Dry Amount" id="312393" flags="" value="1" parameter="12" symbol="dry"/>
+        <Controllable name="Active" id="312395" flags="Toggle" value="1" parameter="13" symbol="on"/>
+        <Controllable name="Input Gain" id="312397" flags="" value="1" parameter="14" symbol="level_in"/>
+        <Controllable name="Output Gain" id="312399" flags="" value="1" parameter="15" symbol="level_out"/>
+        <Controllable name="LFO" id="312401" flags="Toggle" value="1" parameter="24" symbol="lfo"/>
+      </Processor>
+      <Processor id="312204" name="meter-break" active="1" user-latency="0" type="meter"/>
+      <Processor id="312205" name="break" active="1" user-latency="0" own-input="1" own-output="0" output="break" type="main-outs" role="Main">
+        <PannerShell bypassed="0" user-panner="" linked-to-route="1"/>
+        <Pannable>
+          <Controllable name="pan-azimuth" id="312191" flags="" value="0.5"/>
+          <Controllable name="pan-width" id="312195" flags="" value="1"/>
+          <Controllable name="pan-elevation" id="312193" flags="" value="0"/>
+          <Controllable name="pan-frontback" id="312197" flags="" value="0"/>
+          <Controllable name="pan-lfe" id="312199" flags="" value="0"/>
+          <Automation>
+            <AutomationList automation-id="pan-azimuth" id="312190" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-elevation" id="312192" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-width" id="312194" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-frontback" id="312196" interpolation-style="Linear" state="Off"/>
+            <AutomationList automation-id="pan-lfe" id="312198" interpolation-style="Linear" state="Off"/>
+          </Automation>
+        </Pannable>
+      </Processor>
+      <Slavable/>
+      <Controllable name="monitor" id="312212" flags="RealTime" value="0" monitoring=""/>
+      <Controllable name="rec-safe" id="312210" flags="Toggle,RealTime" value="0"/>
+      <Controllable name="rec-enable" id="312208" flags="Toggle,RealTime" value="0"/>
+      <Diskstream flags="Recordable" playlist="break.1" name="break" id="312213" speed="1" capture-alignment="Automatic" record-safe="0" channels="2"/>
     </Route>
   </Routes>
   <Playlists>
@@ -8901,7 +9321,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       </Region>
     </Playlist>
     <Playlist id="34990" name="vocals.5" type="audio" orig-track-id="26072" shared-with-ids="" frozen="0" combine-ops="0">
-      <Region name="vocals-57.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="56848" length="671837" position="85333499" beat="2063.9999758125473" sync-position="56848" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="136023" type="audio" first-edit="nothing" source-0="41270" master-source-0="41270" channels="1">
+      <Region name="vocals-57.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="56848" length="671837" position="85333499" beat="2063.9999758125473" sync-position="56848" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="136023" type="audio" first-edit="nothing" source-0="41270" master-source-0="41270" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="136024" interpolation-style="Curved" state="Off">
@@ -8932,7 +9352,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-57.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="749357" length="640827" position="86026008" beat="2080.75" sync-position="749357" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="136031" type="audio" first-edit="nothing" source-0="41270" master-source-0="41270" channels="1">
+      <Region name="vocals-57.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="749357" length="640827" position="86026008" beat="2080.75" sync-position="749357" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="136031" type="audio" first-edit="nothing" source-0="41270" master-source-0="41270" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="136032" interpolation-style="Curved" state="Off">
@@ -8963,7 +9383,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-60.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="226154" position="86027243" beat="2080.7798760393048" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41482" type="audio" first-edit="nothing" source-0="41445" master-source-0="41445" channels="1">
+      <Region name="vocals-60.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="226154" position="86027243" beat="2080.7798760393048" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41482" type="audio" first-edit="nothing" source-0="41445" master-source-0="41445" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="41483" interpolation-style="Curved" state="Off">
@@ -8994,7 +9414,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-60.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="308842" length="165375" position="86336085" beat="2088.249977324263" sync-position="308842" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41491" type="audio" first-edit="nothing" source-0="41445" master-source-0="41445" channels="1">
+      <Region name="vocals-60.3" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="308842" length="165375" position="86336085" beat="2088.249977324263" sync-position="308842" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="4" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41491" type="audio" first-edit="nothing" source-0="41445" master-source-0="41445" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="41492" interpolation-style="Curved" state="Off">
@@ -9025,7 +9445,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-62.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="175712" length="661499" position="87317999" beat="2111.9999758125473" sync-position="175712" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41924" type="audio" first-edit="nothing" source-0="41695" master-source-0="41695" channels="1">
+      <Region name="vocals-62.2" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="175712" length="661499" position="87317999" beat="2111.9999758125473" sync-position="175712" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41924" type="audio" first-edit="nothing" source-0="41695" master-source-0="41695" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="41925" interpolation-style="Curved" state="Off">
@@ -9056,7 +9476,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-62.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="837211" length="661502" position="87979498" beat="2127.9999516250946" sync-position="837211" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="10" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42071" type="audio" first-edit="nothing" source-0="41695" master-source-0="41695" channels="1">
+      <Region name="vocals-62.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="837211" length="661502" position="87979498" beat="2127.9999516250946" sync-position="837211" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42071" type="audio" first-edit="nothing" source-0="41695" master-source-0="41695" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="42072" interpolation-style="Curved" state="Off">
@@ -9087,38 +9507,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-63.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="201552" position="89431696" beat="2163.1249221466364" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="41906" type="audio" first-edit="nothing" source-0="41791" master-source-0="41791" channels="1">
-        <Envelope default="yes"/>
-        <FadeIn>
-          <AutomationList automation-id="fadein" id="41907" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </FadeIn>
-        <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="41908" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </InverseFadeIn>
-        <FadeOut>
-          <AutomationList automation-id="fadeout" id="41909" interpolation-style="Curved" state="Off">
-            <events>0 1
-64 1.0000000116860974e-07
-</events>
-          </AutomationList>
-        </FadeOut>
-        <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="41910" interpolation-style="Curved" state="Off">
-            <events>0 1.0000000116860974e-07
-64 1
-</events>
-          </AutomationList>
-        </InverseFadeOut>
-      </Region>
-      <Region name="vocals-64.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="10337" position="89622911" beat="2167.7499259259257" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42004" type="audio" first-edit="nothing" source-0="41921" master-source-0="41921" channels="1">
+      <Region name="vocals-64.1" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="0" length="10337" position="89622911" beat="2167.7499259259257" sync-position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="42004" type="audio" first-edit="nothing" source-0="41921" master-source-0="41921" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="42005" interpolation-style="Curved" state="Off">
@@ -9149,7 +9538,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-64.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="671838" length="25505" position="89633248" beat="2167.9999516250946" sync-position="671838" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="9" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="121902" type="audio" first-edit="nothing" source-0="41921" master-source-0="41921" channels="1">
+      <Region name="vocals-64.5" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="671838" length="25505" position="89633248" beat="2167.9999516250946" sync-position="671838" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="121902" type="audio" first-edit="nothing" source-0="41921" master-source-0="41921" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="121903" interpolation-style="Curved" state="Off">
@@ -9180,7 +9569,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-63.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="863053" length="661501" position="89633248" beat="2167.9999516250946" sync-position="863053" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="171833" type="audio" first-edit="nothing" source-0="41791" master-source-0="41791" channels="1">
+      <Region name="vocals-63.6" muted="0" opaque="1" locked="0" video-locked="0" automatic="1" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="863053" length="661501" position="89633248" beat="2167.9999516250946" sync-position="863053" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="171833" type="audio" first-edit="nothing" source-0="41791" master-source-0="41791" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="171834" interpolation-style="Curved" state="Off">
@@ -9211,7 +9600,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="vocals-62.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="837213" length="661501" position="89633248" beat="2167.9999516250946" sync-position="837213" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="171852" type="audio" first-edit="nothing" source-0="41695" master-source-0="41695" channels="1">
+      <Region name="vocals-62.4" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="0" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="837213" length="661501" position="89633248" beat="2167.9999516250946" sync-position="837213" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="171852" type="audio" first-edit="nothing" source-0="41695" master-source-0="41695" channels="1">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="171853" interpolation-style="Curved" state="Off">
@@ -11708,10 +12097,10 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="live-video.11" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89023430" beat="2153.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117316" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+      <Region name="live-video.15" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89023430" beat="2153.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312137" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
-          <AutomationList automation-id="fadein" id="117317" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="312138" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 1378.0999999999985 0.0011718750465661287
 2756.1999999999971 0.0023437500931322575
@@ -11726,36 +12115,58 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </FadeIn>
         <InverseFadeIn>
-          <AutomationList automation-id="fadein" id="117318" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadein" id="312139" interpolation-style="Curved" state="Off">
             <events>0 1
-20671.5 0.59999999999999998
-31696.299999999999 0.075000002980232239
-33074.399999999994 0.037500001490116119
-34452.5 0.01875000074505806
-35830.599999999999 0.0093750003725290298
-37208.700000000004 0.0046875001862645149
-38586.800000000003 0.0023437500931322575
-39964.900000000001 0.0011718750465661287
-41343 1.0000000116860974e-07
+2583.9375 0.99999994039535522
+3875.90625 0.99999988079071045
+5167.875 0.99999964237213135
+6459.84375 0.99999898672103882
+7751.8125 0.99999743700027466
+9043.78125 0.99999368190765381
+10335.75 0.99998486042022705
+11627.71875 0.99996483325958252
+12919.6875 0.99992126226425171
+14211.65625 0.99982970952987671
+15503.625 0.9996446967124939
+16795.59375 0.99928438663482666
+18087.5625 0.99860870838165283
+19379.53125 0.99738889932632446
+20671.5 0.99526852369308472
+21963.46875 0.99171948432922363
+23255.4375 0.98599892854690552
+24547.40625 0.97711586952209473
+25839.375 0.96382063627243042
+27131.34375 0.94462770223617554
+28423.3125 0.91788095235824585
+29715.28125 0.88186335563659668
+31007.25 0.8349456787109375
+32299.21875 0.77575975656509399
+33591.1875 0.7033768892288208
+34883.15625 0.61746740341186523
+36175.125 0.51841646432876587
+37467.09375 0.40737107396125793
+38759.0625 0.28617936372756958
+40051.03125 0.15700520575046539
+41343 0
 </events>
           </AutomationList>
         </InverseFadeIn>
         <FadeOut>
-          <AutomationList automation-id="fadeout" id="117319" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="312140" interpolation-style="Curved" state="Off">
             <events>0 1
-64 1.0000000116860974e-07
+7920 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
-          <AutomationList automation-id="fadeout" id="117320" interpolation-style="Curved" state="Off">
+          <AutomationList automation-id="fadeout" id="312141" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
-64 1
+7920 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="live-video.10" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89219812" beat="2157.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117306" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+      <Region name="live-video.10" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89219812" beat="2157.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117306" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="117307" interpolation-style="Curved" state="Off">
@@ -11786,7 +12197,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="live-video.12" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89354180" beat="2161.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="8" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="286860" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+      <Region name="live-video.12" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89354180" beat="2161.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="7" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="286860" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="286861" interpolation-style="Curved" state="Off">
@@ -11821,19 +12232,19 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <FadeOut>
           <AutomationList automation-id="fadeout" id="286863" interpolation-style="Curved" state="Off">
             <events>0 1
-64 1.0000000116860974e-07
+7920 1.0000000116860974e-07
 </events>
           </AutomationList>
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="286864" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
-64 1
+7920 1
 </events>
           </AutomationList>
         </InverseFadeOut>
       </Region>
-      <Region name="live-video.8" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89550562" beat="2165.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="5" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117286" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+      <Region name="live-video.8" muted="1" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89550562" beat="2165.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="6" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="117286" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
         <Envelope default="yes"/>
         <FadeIn>
           <AutomationList automation-id="fadein" id="117287" interpolation-style="Curved" state="Off">
@@ -12234,6 +12645,186 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         </FadeOut>
         <InverseFadeOut>
           <AutomationList automation-id="fadeout" id="160195" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+    </Playlist>
+    <Playlist id="312214" name="break.1" type="audio" orig-track-id="312172" shared-with-ids="" frozen="0" combine-ops="0">
+      <Region name="live-video.20" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89023430" beat="2153.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="0" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312314" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="312315" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+1378.0999999999985 0.0011718750465661287
+2756.1999999999971 0.0023437500931322575
+4134.2999999999956 0.0046875001862645149
+5512.4000000000015 0.0093750003725290298
+6890.5 0.01875000074505806
+8268.6000000000058 0.037500001490116119
+9646.7000000000007 0.075000002980232239
+20671.5 0.59999999999999998
+41343 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="312316" interpolation-style="Curved" state="Off">
+            <events>0 1
+2583.9375 0.99999994039535522
+3875.90625 0.99999988079071045
+5167.875 0.99999964237213135
+6459.84375 0.99999898672103882
+7751.8125 0.99999743700027466
+9043.78125 0.99999368190765381
+10335.75 0.99998486042022705
+11627.71875 0.99996483325958252
+12919.6875 0.99992126226425171
+14211.65625 0.99982970952987671
+15503.625 0.9996446967124939
+16795.59375 0.99928438663482666
+18087.5625 0.99860870838165283
+19379.53125 0.99738889932632446
+20671.5 0.99526852369308472
+21963.46875 0.99171948432922363
+23255.4375 0.98599892854690552
+24547.40625 0.97711586952209473
+25839.375 0.96382063627243042
+27131.34375 0.94462770223617554
+28423.3125 0.91788095235824585
+29715.28125 0.88186335563659668
+31007.25 0.8349456787109375
+32299.21875 0.77575975656509399
+33591.1875 0.7033768892288208
+34883.15625 0.61746740341186523
+36175.125 0.51841646432876587
+37467.09375 0.40737107396125793
+38759.0625 0.28617936372756958
+40051.03125 0.15700520575046539
+41343 0
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="312317" interpolation-style="Curved" state="Off">
+            <events>0 1
+7920 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="312318" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+7920 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="live-video.23" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89219812" beat="2157.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="3" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312344" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="312345" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="312346" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="312347" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="312348" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="live-video.22" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5350941" length="98191" position="89354180" beat="2161.25" sync-position="5350941" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="2" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312334" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="312335" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+1378.0999999999985 0.0011718750465661287
+2756.1999999999971 0.0023437500931322575
+4134.2999999999956 0.0046875001862645149
+5512.4000000000015 0.0093750003725290298
+6890.5 0.01875000074505806
+8268.6000000000058 0.037500001490116119
+9646.7000000000007 0.075000002980232239
+20671.5 0.59999999999999998
+41343 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="312336" interpolation-style="Curved" state="Off">
+            <events>0 1
+20671.5 0.59999999999999998
+31696.299999999999 0.075000002980232239
+33074.399999999994 0.037500001490116119
+34452.5 0.01875000074505806
+35830.599999999999 0.0093750003725290298
+37208.700000000004 0.0046875001862645149
+38586.800000000003 0.0023437500931322575
+39964.900000000001 0.0011718750465661287
+41343 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="312337" interpolation-style="Curved" state="Off">
+            <events>0 1
+7920 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="312338" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+7920 1
+</events>
+          </AutomationList>
+        </InverseFadeOut>
+      </Region>
+      <Region name="live-video.21" muted="0" opaque="1" locked="0" video-locked="0" automatic="0" whole-file="0" import="0" external="1" sync-marked="0" left-of-split="0" right-of-split="0" hidden="0" position-locked="0" valid-transients="0" start="5299260" length="62015" position="89550562" beat="2165.9999879062734" sync-position="5299260" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" positional-lock-style="AudioTime" layering-index="1" envelope-active="0" default-fade-in="0" default-fade-out="0" fade-in-active="1" fade-out-active="1" scale-amplitude="1" id="312324" type="audio" first-edit="nothing" source-0="93736" source-1="93738" master-source-0="93736" master-source-1="93738" channels="2">
+        <Envelope default="yes"/>
+        <FadeIn>
+          <AutomationList automation-id="fadein" id="312325" interpolation-style="Curved" state="Off">
+            <events>0 1.0000000116860974e-07
+64 1
+</events>
+          </AutomationList>
+        </FadeIn>
+        <InverseFadeIn>
+          <AutomationList automation-id="fadein" id="312326" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </InverseFadeIn>
+        <FadeOut>
+          <AutomationList automation-id="fadeout" id="312327" interpolation-style="Curved" state="Off">
+            <events>0 1
+64 1.0000000116860974e-07
+</events>
+          </AutomationList>
+        </FadeOut>
+        <InverseFadeOut>
+          <AutomationList automation-id="fadeout" id="312328" interpolation-style="Curved" state="Off">
             <events>0 1.0000000116860974e-07
 64 1
 </events>
@@ -14215,7 +14806,7 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="add-routes" visible="0" x-off="-1" y-off="-1" x-size="671" y-size="510"/>
       <Window name="add-video" visible="0" x-off="0" y-off="199" x-size="800" y-size="462"/>
       <Window name="inspector" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="audio-midi-setup" visible="0" x-off="688" y-off="321" x-size="543" y-size="438"/>
+      <Window name="audio-midi-setup" visible="0" x-off="418" y-off="316" x-size="584" y-size="438"/>
       <Window name="video-export" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="script-manager" visible="0" x-off="844" y-off="389" x-size="342" y-size="372"/>
       <Window name="bundle-manager" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -14429,12 +15020,14 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="P-93750-93781" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-93750-93780" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-93750-115376" visible="0" x-off="1002" y-off="0" x-size="867" y-size="713" custom-ui="1"/>
+      <Window name="P-93750-286781" visible="0" x-off="784" y-off="0" x-size="806" y-size="334" custom-ui="1"/>
       <Window name="P-93750-115459" visible="0" x-off="1010" y-off="0" x-size="850" y-size="404" custom-ui="1"/>
       <Window name="P-93750-93782" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="P-93750-93783" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
       <Window name="PM-93781-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-93780-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-115376-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-286781-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-115459-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-93782-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-93783-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
@@ -14484,8 +15077,23 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
       <Window name="PM-9330-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2749-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <Window name="PM-2750-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
-      <Window name="P-93750-286781" visible="0" x-off="850" y-off="452" x-size="806" y-size="334" custom-ui="1"/>
-      <Window name="PM-286781-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="RPM-312172" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-312172-312203" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-312172-312202" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-312172-312204" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="P-312172-312205" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-312203-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-312202-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-312204-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="PM-312205-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-312172-312375" visible="0" x-off="290" y-off="319" x-size="840" y-size="432" custom-ui="1"/>
+      <Window name="PM-312375-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-312172-312405" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-312405-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-312172-312487" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-312487-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
+      <Window name="P-312172-312515" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" custom-ui="1"/>
+      <Window name="PM-312515-" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1"/>
       <GUIObjectState>
         <Object id="rtav 54" height="62" visible="1"/>
         <Object id="automation 58" height="62" visible="0"/>
@@ -14765,6 +15373,19 @@ Using the warm flute effect for now in the will godfrey collection bank.</Commen
         <Object id="automation 95630" height="66" visible="0"/>
         <Object id="automation 95624 12/0/0" height="66" visible="0"/>
         <Object id="automation 95643" height="66" visible="0"/>
+        <Object id="rtav 312172" height="66" visible="1"/>
+        <Object id="automation 312176" height="66" visible="0"/>
+        <Object id="automation 312178" height="66" visible="0"/>
+        <Object id="automation 312172 12/0/0" height="66" visible="0"/>
+        <Object id="automation 312191" height="66" visible="0"/>
+        <Object id="automation 312195" height="66" visible="0"/>
+        <Object id="strip 312172" strip-width="Wide" visible="1">
+          <Object id="processor 312202"/>
+          <Object id="processor 312375"/>
+          <Object id="processor 312405"/>
+          <Object id="processor 312487"/>
+          <Object id="processor 312515"/>
+        </Object>
       </GUIObjectState>
     </UI>
     <Videomonitor active="0"/>
