@@ -2,7 +2,7 @@
 <instant>
   <LastUsedSnapshot name="New bass line 2018Oct03"/>
   <Main x="0" y="25" w="1920" h="1023" current-tab="editor"/>
-  <Editor id="41" edit-horizontal-pane-pos="0.89999997615814209" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="4557" snap-to="SnapToBeatDiv8" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv4" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv8" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="84609984" left-frame="84445687" y-origin="0" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="0" editor-list-page="0" show-marker-lines="0" nudge-clock-value="88200">
+  <Editor id="41" edit-horizontal-pane-pos="0.89999997615814209" notebook-shrunk="0" edit-vertical-pane-pos="0.89999997615814209" mixer-width="Wide" zoom-focus="ZoomFocusPlayhead" zoom="4557" snap-to="SnapToBeatDiv8" snap-mode="SnapNormal" internal-snap-to="SnapToBeatDiv4" internal-snap-mode="SnapOff" pre-internal-snap-to="SnapToBeatDiv8" pre-internal-snap-mode="SnapNormal" edit-point="EditAtMouse" visible-track-count="-1" playhead="84609984" left-frame="84445687" y-origin="585" show-measures="1" maximised="0" follow-playhead="1" stationary-playhead="0" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" join-object-range="0" show-editor-mixer="1" show-editor-list="0" editor-list-page="0" show-marker-lines="0" nudge-clock-value="88200">
     <Window name="Editor" visible="0" x-off="-1" y-off="-1" x-size="-1" y-size="-1" tabbed="1"/>
     <Buttons>
       <Press/>
